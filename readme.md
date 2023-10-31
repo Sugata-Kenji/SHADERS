@@ -1,3 +1,3 @@
 # SHADERS
 
-Compartilhando alguns shadres em GLSL. 
+Compartilhando alguns shaders em GLSL. 
